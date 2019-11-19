@@ -9,7 +9,7 @@ App asks user to fill a survey. After filling out a quick survey, our friend-mat
 
 ### Installation
 (1) To run the app locally, clone this repository using following command,
-  > `git clone git@github.com:pshegde123/FriendFinder.git`
+  > `git@github.com:chris350/FriendFinder.git`
 
 (2) Change directory to `FriendFinder`
 
